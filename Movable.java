@@ -4,7 +4,8 @@ public interface Movable {
 
 	// TASK: Add the additional interface methods below
 
-
+	void moveLeft();
+	void moveRight();
 
 	
 }
